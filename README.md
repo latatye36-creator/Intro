@@ -11,3 +11,6 @@ Some training steps to learn Git
   git add file_name или . - добавление файлов в индекс для коммита
   git commit -m 'text'    - создание коммита с описанием
   git push origin main    - отправка на github
+## Ветки
+  git branch br_name - создание ветки
+  git checkout br_name переключение на ветку
